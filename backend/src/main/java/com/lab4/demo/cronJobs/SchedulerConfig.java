@@ -12,7 +12,7 @@ import java.util.Date;
 
 import org.springframework.stereotype.Component;
 
-import javax.mail.MessagingException;
+import jakarta.mail.MessagingException;
 
 @Configuration
 @EnableScheduling

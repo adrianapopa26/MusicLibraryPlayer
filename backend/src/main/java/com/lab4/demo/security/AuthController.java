@@ -15,8 +15,8 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.web.bind.annotation.*;
 
-import javax.mail.MessagingException;
-import javax.validation.Valid;
+import jakarta.mail.MessagingException;
+import jakarta.validation.Valid;
 import java.util.List;
 import java.util.stream.Collectors;
 
